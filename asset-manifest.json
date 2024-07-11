@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/DhvaniMaktuporiaHeroSection/static/css/main.72509d39.css",
+    "main.js": "/DhvaniMaktuporiaHeroSection/static/js/main.38714316.js",
+    "static/js/453.d1bce21e.chunk.js": "/DhvaniMaktuporiaHeroSection/static/js/453.d1bce21e.chunk.js",
+    "static/media/banner2.PNG": "/DhvaniMaktuporiaHeroSection/static/media/banner2.7f70dd036aaa9433c723.PNG",
+    "static/media/furnit-img.PNG": "/DhvaniMaktuporiaHeroSection/static/media/furnit-img.6721a6d1908fda0f6740.PNG",
+    "static/media/mobile-image.png": "/DhvaniMaktuporiaHeroSection/static/media/mobile-image.6dde85d34af644026ea9.png",
+    "static/media/grocery-image.png": "/DhvaniMaktuporiaHeroSection/static/media/grocery-image.1f1051d52ff8485a162b.png",
+    "static/media/elec-img.PNG": "/DhvaniMaktuporiaHeroSection/static/media/elec-img.4476b86c44a9922ad171.PNG",
+    "static/media/banner1.PNG": "/DhvaniMaktuporiaHeroSection/static/media/banner1.f966f9ddd5a1966ff8e3.PNG",
+    "static/media/appliance-img.PNG": "/DhvaniMaktuporiaHeroSection/static/media/appliance-img.c0b7eea1a87f80f77405.PNG",
+    "static/media/banner3.PNG": "/DhvaniMaktuporiaHeroSection/static/media/banner3.8adddf6af84f0ec14c11.PNG",
+    "static/media/toys.PNG": "/DhvaniMaktuporiaHeroSection/static/media/toys.b1cd20ef8e1b33e260b4.PNG",
+    "static/media/hero-card1.PNG": "/DhvaniMaktuporiaHeroSection/static/media/hero-card1.085b21e9255733a72c5c.PNG",
+    "static/media/fashion-image.png": "/DhvaniMaktuporiaHeroSection/static/media/fashion-image.ed4b11eba041207a556f.png",
+    "static/media/hero-card2.PNG": "/DhvaniMaktuporiaHeroSection/static/media/hero-card2.670171018603a3871902.PNG",
+    "static/media/logo.PNG": "/DhvaniMaktuporiaHeroSection/static/media/logo.9f239aacecbde25bde53.PNG",
+    "index.html": "/DhvaniMaktuporiaHeroSection/index.html",
+    "main.72509d39.css.map": "/DhvaniMaktuporiaHeroSection/static/css/main.72509d39.css.map",
+    "main.38714316.js.map": "/DhvaniMaktuporiaHeroSection/static/js/main.38714316.js.map",
+    "453.d1bce21e.chunk.js.map": "/DhvaniMaktuporiaHeroSection/static/js/453.d1bce21e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72509d39.css",
+    "static/js/main.38714316.js"
+  ]
+}
