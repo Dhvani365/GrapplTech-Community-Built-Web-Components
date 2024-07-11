@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DhvaniMaktuporiaHeroSection/static/css/main.72509d39.css",
-    "main.js": "/DhvaniMaktuporiaHeroSection/static/js/main.38714316.js",
+    "main.js": "/DhvaniMaktuporiaHeroSection/static/js/main.fd6566b1.js",
     "static/js/453.d1bce21e.chunk.js": "/DhvaniMaktuporiaHeroSection/static/js/453.d1bce21e.chunk.js",
     "static/media/banner2.PNG": "/DhvaniMaktuporiaHeroSection/static/media/banner2.7f70dd036aaa9433c723.PNG",
     "static/media/furnit-img.PNG": "/DhvaniMaktuporiaHeroSection/static/media/furnit-img.6721a6d1908fda0f6740.PNG",
@@ -18,11 +18,11 @@
     "static/media/logo.PNG": "/DhvaniMaktuporiaHeroSection/static/media/logo.9f239aacecbde25bde53.PNG",
     "index.html": "/DhvaniMaktuporiaHeroSection/index.html",
     "main.72509d39.css.map": "/DhvaniMaktuporiaHeroSection/static/css/main.72509d39.css.map",
-    "main.38714316.js.map": "/DhvaniMaktuporiaHeroSection/static/js/main.38714316.js.map",
+    "main.fd6566b1.js.map": "/DhvaniMaktuporiaHeroSection/static/js/main.fd6566b1.js.map",
     "453.d1bce21e.chunk.js.map": "/DhvaniMaktuporiaHeroSection/static/js/453.d1bce21e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72509d39.css",
-    "static/js/main.38714316.js"
+    "static/js/main.fd6566b1.js"
   ]
 }
