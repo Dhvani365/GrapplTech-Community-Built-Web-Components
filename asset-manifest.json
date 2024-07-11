@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/DhvaniMaktuporiaHeroSection/static/css/main.72509d39.css",
-    "main.js": "/DhvaniMaktuporiaHeroSection/static/js/main.fd6566b1.js",
+    "main.css": "/DhvaniMaktuporiaHeroSection/static/css/main.8a39f8d6.css",
+    "main.js": "/DhvaniMaktuporiaHeroSection/static/js/main.be96e67c.js",
     "static/js/453.d1bce21e.chunk.js": "/DhvaniMaktuporiaHeroSection/static/js/453.d1bce21e.chunk.js",
     "static/media/banner2.PNG": "/DhvaniMaktuporiaHeroSection/static/media/banner2.7f70dd036aaa9433c723.PNG",
     "static/media/furnit-img.PNG": "/DhvaniMaktuporiaHeroSection/static/media/furnit-img.6721a6d1908fda0f6740.PNG",
@@ -17,12 +17,12 @@
     "static/media/hero-card2.PNG": "/DhvaniMaktuporiaHeroSection/static/media/hero-card2.670171018603a3871902.PNG",
     "static/media/logo.PNG": "/DhvaniMaktuporiaHeroSection/static/media/logo.9f239aacecbde25bde53.PNG",
     "index.html": "/DhvaniMaktuporiaHeroSection/index.html",
-    "main.72509d39.css.map": "/DhvaniMaktuporiaHeroSection/static/css/main.72509d39.css.map",
-    "main.fd6566b1.js.map": "/DhvaniMaktuporiaHeroSection/static/js/main.fd6566b1.js.map",
+    "main.8a39f8d6.css.map": "/DhvaniMaktuporiaHeroSection/static/css/main.8a39f8d6.css.map",
+    "main.be96e67c.js.map": "/DhvaniMaktuporiaHeroSection/static/js/main.be96e67c.js.map",
     "453.d1bce21e.chunk.js.map": "/DhvaniMaktuporiaHeroSection/static/js/453.d1bce21e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.72509d39.css",
-    "static/js/main.fd6566b1.js"
+    "static/css/main.8a39f8d6.css",
+    "static/js/main.be96e67c.js"
   ]
 }
